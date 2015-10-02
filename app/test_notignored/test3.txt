@@ -2,4 +2,5 @@ some text
 another change
 changed
 changed on pc
-seb is improving things here and comitting + pushing
+seb is improving things here and comitting + pushingchanged on pc
+changed on mac
