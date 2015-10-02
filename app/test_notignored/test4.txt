@@ -8,3 +8,7 @@
 8. new seb change
 10. new seb change
 11. new jordi change
+
+thus is function01() {
+    doSomething();
+}
