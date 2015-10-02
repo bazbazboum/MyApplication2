@@ -1,4 +1,5 @@
 some text
 another change
 changed
-changed on pcchanged on mac
+changed on pc
+changed on mac
