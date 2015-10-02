@@ -13,6 +13,6 @@ thus is function01() {
     doSomething();
 }
 
-function02 () (
-rfrfrf
-)
+function02 () {
+    doSomething();
+}
